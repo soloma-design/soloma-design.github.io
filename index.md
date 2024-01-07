@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Areas of Activity
 
 - Applied arts
