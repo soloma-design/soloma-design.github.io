@@ -1,3 +1,9 @@
+---
+title: Soloma Design
+description: Soloma Design Company acts in Applied arts / Handicraft / Textile / Needlework / Knitting & Crochet / Raffia crafts
+layout: default
+---
+
 # Areas of Activity
 
 - Applied arts
