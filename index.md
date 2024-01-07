@@ -17,3 +17,6 @@ layout: default
 ```
 Russia, Rostov-on-Don
 ```
+
+# Pages:
+- [TapLink]("https://taplink.soloma.design")
