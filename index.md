@@ -19,4 +19,4 @@ Russia, Rostov-on-Don
 ```
 
 # Pages:
-- [TapLink]("https://taplink.soloma.design")
+- [TapLink](taplink.soloma.design)
