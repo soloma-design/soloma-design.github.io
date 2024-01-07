@@ -19,4 +19,8 @@ Russia, Rostov-on-Don
 ```
 
 # Pages:
+- [HipoLink](https://hipolink.me/soloma)
+- [NethouseId](https://nethouse.id/soloma)
 - [TapLink](https://soloma.taplink.ws/)
+- [ShorBy](https://shor.by/soloma)
+- [TapBio](https://tap.bio/@soloma/cards/742354)
