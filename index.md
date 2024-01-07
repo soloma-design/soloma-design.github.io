@@ -18,7 +18,7 @@ layout: default
 Russia, Rostov-on-Don
 ```
 
-# Pages:
+# Links to Reference landing pages:
 - [HipoLink](https://hipolink.me/soloma)
 - [NethouseId](https://nethouse.id/soloma)
 - [TapLink](https://soloma.taplink.ws/)
